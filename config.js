@@ -47,13 +47,13 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["94779529221","94757534153"];         //If you want singal number so global.Owner = ['94779529221'] Change into your number.
-global.OwnerNumber = ["94757534153","94779529221"];   //If you want singal number so global.Owner = ['94779529221'] Change into your number.
-global.ownertag = ["94779529221"];
-global.OwnerName = "Mr.White Shadow";
-global.BotName = "Jessi-Md";
-global.packname = "Jessi-md bot";                             //Do not change.
-global.author = "By: Mr.White Shadow";                               //Do not change.
+global.Owner = ["+919207278115","+919207278115"];         //If you want singal number so global.Owner = ['94779529221'] Change into your number.
+global.OwnerNumber = ["+919207278115","+919207278115"];   //If you want singal number so global.Owner = ['94779529221'] Change into your number.
+global.ownertag = ["+919207278115"];
+global.OwnerName = "♡JUNAID-SER";
+global.BotName = "JUNAID-SER-MD";
+global.packname = "Avus-md bot";                             //Do not change.
+global.author = "By: Mr.LUTTAPI";                               //Do not change.
 global.BotSourceCode = "https://github.com/whiteshadowofficial/Jessi-md"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/I1uZccqxoqx5sOPrYHsbyc"; 
 
